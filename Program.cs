@@ -22,6 +22,7 @@ namespace InterfaceExample
             // string[] referanslar = new string[0];
             string[] referanslar = { "Ali Veli","Ahmet Mehmet","Dila Aslan" };
             endustriMuh.referanslar(referanslar);
+            endustriMuh.calis();
         }
     }
     abstract class Aday
@@ -36,6 +37,10 @@ namespace InterfaceExample
         void ortalama(string ort);
         void sicilKaydi();
         void askerlikDurumu();
+    }
+    interface ICalis
+    {
+        void calis();
     }
 
 
@@ -102,7 +107,7 @@ namespace InterfaceExample
         }
     }
     
-    class EndustriMuh : Aday, IMuhendisIseAlim
+    class EndustriMuh : Aday, IMuhendisIseAlim, ICalis
     {
         public EndustriMuh(string cinsiyet, bool askerlik, bool sicil)
         {
@@ -186,6 +191,11 @@ namespace InterfaceExample
                     Console.WriteLine(referanslar[i]);
                 }
             }
+        }
+
+        public void calis()
+        {
+            Console.WriteLine("Bir classa birden fazla interface implemet edilebilir..");
         }
     }
     
