@@ -1,0 +1,11 @@
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.csprojAssemblyReference.cache
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.AssemblyInfo.cs
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.deps.json
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.runtimeconfig.json
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.runtimeconfig.dev.json
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.dll
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.pdb
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.dll
+C:\Users\dilaa\source\repos\OOPExamplesSolution\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.pdb
